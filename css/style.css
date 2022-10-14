@@ -148,7 +148,7 @@ body{
     }
 }
 /*...........tablet end............ */
-@media screen and ( max-width: 550px){
+@media screen and ( max-width: 600px){
     /* ............phone section 7....... */
     .row-s7{
         font-weight: 700;
@@ -182,5 +182,30 @@ body{
     /* .........phone section 7 end........ */
 
     /* .........phone section 8............ */
-
+    .margin-top{
+        padding-top: 23px;
+        margin-top: 0 ;
+    }
+    .row{
+        display: block;
+    }
+    .icons-s8 img{
+        width: 53.59px;
+        margin-bottom: 14px;
+    }
+    .list-s8 img{
+        margin-right: 10px;
+        width: 15px;
+    }
+    .contact-s8{
+        width: 148px;
+        height: 41px;
+        font-size: 10px;
+    }
+    .foot{
+        font-weight: 400;
+        font-size: 10px;
+        margin-top: 70px;
+        padding-bottom: 15px;
+    }
 }
