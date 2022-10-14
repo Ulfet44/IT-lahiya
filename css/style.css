@@ -79,7 +79,7 @@ body{
     margin-top: 146px;
     padding-bottom: 40px;
 }
-/*  .............. desctop end ............ */
+/*  .............. descktop end ............ */
 @media screen and ( max-width: 960px){
     /* ...........tablet section 7.......... */
     .row-s7{
@@ -146,4 +146,41 @@ body{
         margin-top: 84px;
         padding-bottom: 20px;
     }
+}
+/*...........tablet end............ */
+@media screen and ( max-width: 550px){
+    /* ............phone section 7....... */
+    .row-s7{
+        font-weight: 700;
+        font-size: 26px;
+        padding-top: 62px;
+    }
+    .head-s7{
+        font-weight: 400;
+        font-size: 12px;
+        padding-top: 22px;
+    }
+    .head2-s7{
+        font-size: 37px;
+        font-weight: 400;
+        margin-bottom: 30px;
+    }
+    .texth-s7{
+        font-weight: 400;
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .text2-s7{
+        font-weight: 400;
+        font-size: 10px;
+    }
+    .text1-s7{
+        width: 138px;
+        margin-right: 31px;
+        padding-bottom: 63px;
+    }
+    /* .........phone section 7 end........ */
+
+    /* .........phone section 8............ */
+
 }
